@@ -3,6 +3,7 @@
 
 [**Paper**](https://link.springer.com/chapter/10.1007/978-981-95-4384-7_30)
 
+![image](/fig2.png)
 
 
 
